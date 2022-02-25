@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HeshamSHY
 - 👀 I’m interested in Gaming, Content Creation, Programming, Networking and Computers in general.
-- 🌱 A Privacu advocate.
+- 🌱 A Privacy advocate.
 
 <!---
 HeshamSHY/HeshamSHY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
